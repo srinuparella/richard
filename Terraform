@@ -1,3 +1,0 @@
-provider "aws" {
-    regionv = "us-east-1a"
-}
